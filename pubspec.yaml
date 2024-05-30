@@ -40,6 +40,7 @@ dependencies:
   path_provider:
   path:
   photo_view:
+  image_cropper:
 dev_dependencies:
   flutter_test:
     sdk: flutter
